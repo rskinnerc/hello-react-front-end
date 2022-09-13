@@ -1,56 +1,38 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello React Front-end
 
-> Description the project.
+> A React based front-end app for consuming a Rails greetings API
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Reactjs
+- Redux
+- React Router
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
-
+- Yarn or npm installed
 ### Setup
-
+- Clone the repo `git clone git@github.com:rskinnerc/hello-react-front-end.git`
+- get into the project directory `cd hello-react-front-end` 
 ### Install
-
+- run `yarn install` or `npm install`
 ### Usage
-
-### Run tests
-
-### Deployment
-
+- run `yarn start` or `npm start` to start the server
+- open your browser and go to `http://localhost:4000/`
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ronald Skinner**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@rskinnerc](https://github.com/rskinnerc)
+- Twitter: [@XSkinner](https://twitter.com/XSkinner)
+- LinkedIn: [Ronald Skinner Cardenas](https://www.linkedin.com/in/rskinnerc/)
 
 ## 🤝 Contributing
 
@@ -71,5 +53,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
